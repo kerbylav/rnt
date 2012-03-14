@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Really new topics</lang>
+	</name>
+	<author>
+		<lang name="default">Alexei Lukin aka Kerby</lang>
+	</author>
+	<homepage>http://imthinker.ru/plugin-rnt</homepage>
+	<version>1.0.0</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">Plugin 'fixes' new topics date management so livestreet thinks new topics are from last read topic's date</lang>
+		<lang name="russian">Плагин 'заставляет' LiveStreet думать, что новые топики действительно начинаются с последнего прочитанного.</lang>
+	</description>
+
+</plugin>
